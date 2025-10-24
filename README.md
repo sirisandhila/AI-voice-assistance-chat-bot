@@ -138,7 +138,7 @@ Text-to-Speech → "The weather in London is 18°C and partly cloudy."
 * Siri Sandhila
 * Hasini Pancherupula
 * Nikitha Reddy Mallela
-* Sathvika Kandukuri
+* Sathvika Kunduri
 * Harika.k
 * Pravalika.k
 
